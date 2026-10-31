@@ -1,0 +1,25 @@
+{
+  "name": "Theme Loader",
+  "author": "kromossomoc",
+  "flags": [
+    "root"
+  ],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "console",
+      "dashboard",
+      "installer",
+      "loader",
+      "ps3",
+      "ps5",
+      "store",
+      "switch",
+      "theme",
+      "updates",
+      "xbox"
+    ],
+    "description": "A theme and dashboard store for SteamOS: browse PS3 XMB, PS5, Switch 2, Xbox Series and Achievo with screenshots, get update alerts and install with one click.",
+    "image": ""
+  }
+}
