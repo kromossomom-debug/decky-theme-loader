@@ -29,6 +29,7 @@ STAGE_COLORS = {
     "ps5-dashboard": ("0050b8", "000c26"),
     "switch2-dashboard": ("c4101c", "1a1a2e"),
     "xbox-dashboard": ("138a13", "07170a"),
+    "xbox360-dashboard": ("5dc21e", "0d2a06"),
     "achievo": ("8a6a18", "141008"),
 }
 DEFAULT_STAGE = ("24324a", "0b0e14")

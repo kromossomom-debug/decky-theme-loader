@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.0
+
+- **New in the store: Xbox 360 Dashboard 1.0.0.** The 2011 Xbox 360 Metro dashboard: pivot tabs (home, social,
+  games, tv & movies, music, apps, settings), big and small tiles, the Guide, and original 3D avatars with an
+  Avatar Editor. On first launch it asks you to pick one of ten ready-made avatars. Bundled with Theme Loader and
+  published in this release.
+
 ## 1.3.0
 
 - **Clean full screen.** Steam's top bar (clock, battery and profile) is hidden while the store or a plugin page is

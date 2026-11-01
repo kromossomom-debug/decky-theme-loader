@@ -515,6 +515,72 @@ PLUGIN_PRESETS = {
             {"filename": "system.jpg", "title": {"pt": "Guia do Sistema e Configurações", "en": "System Guide & Settings", "de": "System-Guide & Einstellungen", "pl": "Przewodnik systemowy i ustawienia"}}
         ]
     },
+    "xbox360-dashboard": {
+        "id": "xbox360-dashboard",
+        "name": "Xbox 360 Dashboard",
+        "console": {
+            "pt": "Xbox 360",
+            "en": "Xbox 360",
+            "de": "Xbox 360",
+            "pl": "Xbox 360"
+        },
+        "badge": {
+            "pt": "Xbox 360 Metro",
+            "en": "Xbox 360 Metro",
+            "de": "Xbox 360 Metro",
+            "pl": "Xbox 360 Metro"
+        },
+        "color": "#5DC21E",
+        "gradient": "linear-gradient(135deg, #3f8f16 0%, #0d2a06 100%)",
+        "accent": "#8be04e",
+        "isDashboard": True,
+        "tagline": {
+            "pt": "O painel Metro do Xbox 360 (2011) no SteamOS, com avatares 3D e Editor de Avatar",
+            "en": "The 2011 Xbox 360 Metro dashboard on SteamOS, with 3D avatars and an Avatar Editor",
+            "de": "Das Xbox 360 Metro-Dashboard (2011) auf SteamOS, mit 3D-Avataren und Avatar-Editor",
+            "pl": "Panel Metro z Xbox 360 (2011) w SteamOS, z awatarami 3D i edytorem awatara"
+        },
+        "features": {
+            "pt": [
+                "Abas início, social, jogos, tv e filmes, música, apps e configurações (LB/RB)",
+                "Blocos grandes e pequenos com a animação de entrada do Metro",
+                "Escolha de avatar na primeira execução: 10 avatares prontos (5 + 5)",
+                "Avatares 3D animados e Editor de Avatar completo com miniaturas ao vivo",
+                "Guia com cartão do jogador e menus do Steam no estilo do Guia"
+            ],
+            "en": [
+                "home, social, games, tv & movies, music, apps and settings pivots (LB/RB)",
+                "Big and small tiles with the Metro slide-in motion",
+                "Pick an avatar on first launch: 10 ready-made avatars (5 + 5)",
+                "Animated 3D avatars and a full Avatar Editor with live thumbnails",
+                "Guide with your gamercard and Guide-style Steam menus"
+            ],
+            "de": [
+                "Reiter Start, Social, Spiele, TV & Filme, Musik, Apps und Einstellungen (LB/RB)",
+                "Große und kleine Kacheln mit der Metro-Einblendanimation",
+                "Avatarauswahl beim ersten Start: 10 fertige Avatare (5 + 5)",
+                "Animierte 3D-Avatare und ein vollständiger Avatar-Editor mit Live-Vorschau",
+                "Guide mit Spielerkarte und Steam-Menüs im Guide-Stil"
+            ],
+            "pl": [
+                "Karty start, społeczność, gry, tv i filmy, muzyka, aplikacje i ustawienia (LB/RB)",
+                "Duże i małe kafelki z animacją wjazdu w stylu Metro",
+                "Wybór awatara przy pierwszym uruchomieniu: 10 gotowych awatarów (5 + 5)",
+                "Animowane awatary 3D i pełny edytor awatara z podglądem na żywo",
+                "Przewodnik z kartą gracza i menu Steam w stylu przewodnika"
+            ]
+        },
+        "screenshots": [
+            {"filename": "home.jpg", "title": {"pt": "Início Metro com avatar", "en": "Metro home with avatar", "de": "Metro-Start mit Avatar", "pl": "Ekran główny Metro z awatarem"}},
+            {"filename": "picker.jpg", "title": {"pt": "Escolha seu avatar", "en": "Select an Avatar", "de": "Avatar auswählen", "pl": "Wybierz awatara"}},
+            {"filename": "social.jpg", "title": {"pt": "Aba social e amigos", "en": "Social tab and friends", "de": "Social-Reiter und Freunde", "pl": "Karta społeczności i znajomi"}},
+            {"filename": "games.jpg", "title": {"pt": "Aba jogos", "en": "Games tab", "de": "Spiele-Reiter", "pl": "Karta gier"}},
+            {"filename": "editor.jpg", "title": {"pt": "Editor de Avatar: cabelo", "en": "Avatar Editor: hair", "de": "Avatar-Editor: Haare", "pl": "Edytor awatara: fryzura"}},
+            {"filename": "editor-tops.jpg", "title": {"pt": "Editor de Avatar: blusas", "en": "Avatar Editor: tops", "de": "Avatar-Editor: Oberteile", "pl": "Edytor awatara: góry"}},
+            {"filename": "guide.jpg", "title": {"pt": "Guia", "en": "Guide", "de": "Guide", "pl": "Przewodnik"}},
+            {"filename": "settings.jpg", "title": {"pt": "Aba configurações", "en": "Settings tab", "de": "Einstellungen-Reiter", "pl": "Karta ustawień"}}
+        ]
+    },
     "achievo": {
         "id": "achievo",
         "name": "Achievo",

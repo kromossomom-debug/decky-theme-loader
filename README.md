@@ -65,6 +65,7 @@ each plugin by hand. A [Decky Loader](https://decky.xyz) plugin for the Steam De
 | **PS5 Dashboard** | The PlayStation 5 home screen: game row, white Play button, HowLongToBeat cards and PS5 colors | [decky-ps5-dashboard](https://github.com/kromossomom-debug/decky-ps5-dashboard) |
 | **Switch 2 Dashboard** | The Nintendo Switch 2 HOME Menu: square tiles, round shortcuts, All Software, My Page and Basic White | [decky-switch2-dashboard](https://github.com/kromossomom-debug/decky-switch2-dashboard) |
 | **Xbox Dashboard** | The Xbox Series X\|S dashboard: hero art, LB/RB tabs, My Games & Apps and the Guide | [decky-xbox-dashboard](https://github.com/kromossomom-debug/decky-xbox-dashboard) |
+| **Xbox 360 Dashboard** | The 2011 Xbox 360 Metro dashboard: pivot tabs, big and small tiles, the Guide and 3D avatars with an Avatar Editor | Bundled with Theme Loader |
 | **Achievo** | Xbox Series or PS5-style achievement pop-ups with sounds and 9 screen positions | [decky-achievo](https://github.com/kromossomom-debug/decky-achievo) |
 
 You can add your own: any plugin `.zip` placed in `~/Documents/theme-loader/` shows up in the store.
@@ -112,6 +113,16 @@ The Xbox Series X|S interface experience adapted for SteamOS · [repository](htt
 |:-:|:-:|:-:|
 | <a href="assets/screenshots/xbox-dashboard/home.jpg"><img src="assets/thumbs/xbox-dashboard/home.jpg" alt="Xbox Series X&#124;S Home"></a><br><sub>Xbox Series X&#124;S Home</sub> | <a href="assets/screenshots/xbox-dashboard/mygames.jpg"><img src="assets/thumbs/xbox-dashboard/mygames.jpg" alt="My Games &amp; Apps Panel"></a><br><sub>My Games &amp; Apps Panel</sub> | <a href="assets/screenshots/xbox-dashboard/game.jpg"><img src="assets/thumbs/xbox-dashboard/game.jpg" alt="Game Page with Badges"></a><br><sub>Game Page with Badges</sub> |
 | <a href="assets/screenshots/xbox-dashboard/system.jpg"><img src="assets/thumbs/xbox-dashboard/system.jpg" alt="System Guide &amp; Settings"></a><br><sub>System Guide &amp; Settings</sub> |  |  |
+
+### Xbox 360 Dashboard
+
+The 2011 Xbox 360 Metro dashboard on SteamOS, with 3D avatars and an Avatar Editor · bundled with Theme Loader
+
+| | | |
+|:-:|:-:|:-:|
+| <a href="assets/screenshots/xbox360-dashboard/home.jpg"><img src="assets/thumbs/xbox360-dashboard/home.jpg" alt="Metro home with avatar"></a><br><sub>Metro home with avatar</sub> | <a href="assets/screenshots/xbox360-dashboard/picker.jpg"><img src="assets/thumbs/xbox360-dashboard/picker.jpg" alt="Select an Avatar"></a><br><sub>Select an Avatar</sub> | <a href="assets/screenshots/xbox360-dashboard/social.jpg"><img src="assets/thumbs/xbox360-dashboard/social.jpg" alt="Social tab and friends"></a><br><sub>Social tab and friends</sub> |
+| <a href="assets/screenshots/xbox360-dashboard/games.jpg"><img src="assets/thumbs/xbox360-dashboard/games.jpg" alt="Games tab"></a><br><sub>Games tab</sub> | <a href="assets/screenshots/xbox360-dashboard/editor.jpg"><img src="assets/thumbs/xbox360-dashboard/editor.jpg" alt="Avatar Editor: hair"></a><br><sub>Avatar Editor: hair</sub> | <a href="assets/screenshots/xbox360-dashboard/editor-tops.jpg"><img src="assets/thumbs/xbox360-dashboard/editor-tops.jpg" alt="Avatar Editor: tops"></a><br><sub>Avatar Editor: tops</sub> |
+| <a href="assets/screenshots/xbox360-dashboard/guide.jpg"><img src="assets/thumbs/xbox360-dashboard/guide.jpg" alt="Guide"></a><br><sub>Guide</sub> | <a href="assets/screenshots/xbox360-dashboard/settings.jpg"><img src="assets/thumbs/xbox360-dashboard/settings.jpg" alt="Settings tab"></a><br><sub>Settings tab</sub> |  |
 
 ### Achievo
 
