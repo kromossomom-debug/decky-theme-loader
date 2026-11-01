@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.1
+
+- **Xbox 360 Dashboard 1.0.1.** The D-pad now follows the tiles on screen: up / down stays in a column and
+  left / right moves to the next column at the same height, on the dashboard, in the Avatar Editor and on
+  *Select an Avatar*.
+
 ## 1.4.0
 
 - **New in the store: Xbox 360 Dashboard 1.0.0.** The 2011 Xbox 360 Metro dashboard: pivot tabs (home, social,
