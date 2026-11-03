@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.5.2
+
+- **Xbox 360 NXE Dashboard 1.0.2 and Xbox 360 Dashboard 1.1.1: the Steam menu no longer gets stuck.** With
+  *Guide-style menus* on, opening the Steam menu could leave the screen blurred with no way out. The menu style now
+  only changes colors and backgrounds and leaves Steam's own animations alone.
+- **NXE: lighter.** Only the focused card, the one just passed and the visible stack are drawn, cards use the smaller
+  capsule art instead of 1920 px hero images, and the costly shadows and masks are gone.
+- **NXE: new friend cards.** The Steam picture is framed on the left in full resolution with a green ring when the
+  friend is online, and the name and what they're playing sit beside it.
+
 ## 1.5.1
 
 - **Xbox 360 NXE Dashboard 1.0.1.** A glossy ball with the Steam symbol sits on the floor in the bottom right corner,
