@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.5.1
+
+- **Xbox 360 NXE Dashboard 1.0.1.** A glossy ball with the Steam symbol sits on the floor in the bottom right corner,
+  where the 2008 dashboard had its orb. Game names keep their own spelling on the cards, and the dashboard's labels
+  use proper title case in each language. New store screenshots.
+
 ## 1.5.0
 
 - **New in the store: Xbox 360 NXE Dashboard 1.0.0.** The 2008 Xbox 360 "New Xbox Experience" dashboard: a lime-green
