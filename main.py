@@ -524,61 +524,102 @@ PLUGIN_PRESETS = {
             "de": "Xbox 360",
             "pl": "Xbox 360"
         },
-        "badge": {
-            "pt": "Xbox 360 Metro",
-            "en": "Xbox 360 Metro",
-            "de": "Xbox 360 Metro",
-            "pl": "Xbox 360 Metro"
-        },
+        "badge": {"pt": "Xbox 360 Metro", "en": "Xbox 360 Metro", "de": "Xbox 360 Metro", "pl": "Xbox 360 Metro"},
         "color": "#5DC21E",
         "gradient": "linear-gradient(135deg, #3f8f16 0%, #0d2a06 100%)",
         "accent": "#8be04e",
         "isDashboard": True,
-        "tagline": {
-            "pt": "O painel Metro do Xbox 360 (2011) no SteamOS, com avatares 3D e Editor de Avatar",
-            "en": "The 2011 Xbox 360 Metro dashboard on SteamOS, with 3D avatars and an Avatar Editor",
-            "de": "Das Xbox 360 Metro-Dashboard (2011) auf SteamOS, mit 3D-Avataren und Avatar-Editor",
-            "pl": "Panel Metro z Xbox 360 (2011) w SteamOS, z awatarami 3D i edytorem awatara"
-        },
+        "tagline": {"pt": "O painel Metro do Xbox 360 (2011) no SteamOS, com blocos e abas em pivô", "en": "The 2011 Xbox 360 Metro dashboard on SteamOS, with tiles and pivot tabs", "de": "Das Xbox 360 Metro-Dashboard (2011) auf SteamOS, mit Kacheln und Pivot-Reitern", "pl": "Panel Metro z Xbox 360 (2011) w SteamOS, z kafelkami i kartami pivot"},
         "features": {
             "pt": [
                 "Abas início, social, jogos, tv e filmes, música, apps e configurações (LB/RB)",
                 "Blocos grandes e pequenos com a animação de entrada do Metro",
-                "Escolha de avatar na primeira execução: 10 avatares prontos (5 + 5)",
-                "Avatares 3D animados e Editor de Avatar completo com miniaturas ao vivo",
-                "Guia com cartão do jogador e menus do Steam no estilo do Guia"
+                "Seu jogo mais recente em destaque, com arte e logo",
+                "Guia com cartão do jogador e menus do Steam no estilo do Guia",
+                "Oito cores de destaque e fonte Open Sans"
             ],
             "en": [
                 "home, social, games, tv & movies, music, apps and settings pivots (LB/RB)",
                 "Big and small tiles with the Metro slide-in motion",
-                "Pick an avatar on first launch: 10 ready-made avatars (5 + 5)",
-                "Animated 3D avatars and a full Avatar Editor with live thumbnails",
-                "Guide with your gamercard and Guide-style Steam menus"
+                "Your latest game in the big tile, with its art and logo",
+                "Guide with your gamercard and Guide-style Steam menus",
+                "Eight accent colors and the Open Sans font"
             ],
             "de": [
                 "Reiter Start, Social, Spiele, TV & Filme, Musik, Apps und Einstellungen (LB/RB)",
                 "Große und kleine Kacheln mit der Metro-Einblendanimation",
-                "Avatarauswahl beim ersten Start: 10 fertige Avatare (5 + 5)",
-                "Animierte 3D-Avatare und ein vollständiger Avatar-Editor mit Live-Vorschau",
-                "Guide mit Spielerkarte und Steam-Menüs im Guide-Stil"
+                "Dein neuestes Spiel in der großen Kachel, mit Cover und Logo",
+                "Guide mit Spielerkarte und Steam-Menüs im Guide-Stil",
+                "Acht Akzentfarben und die Schrift Open Sans"
             ],
             "pl": [
                 "Karty start, społeczność, gry, tv i filmy, muzyka, aplikacje i ustawienia (LB/RB)",
                 "Duże i małe kafelki z animacją wjazdu w stylu Metro",
-                "Wybór awatara przy pierwszym uruchomieniu: 10 gotowych awatarów (5 + 5)",
-                "Animowane awatary 3D i pełny edytor awatara z podglądem na żywo",
-                "Przewodnik z kartą gracza i menu Steam w stylu przewodnika"
+                "Twoja ostatnia gra na dużym kafelku, z okładką i logo",
+                "Przewodnik z kartą gracza i menu Steam w stylu przewodnika",
+                "Osiem kolorów akcentu i czcionka Open Sans"
             ]
         },
         "screenshots": [
-            {"filename": "home.jpg", "title": {"pt": "Início Metro com avatar", "en": "Metro home with avatar", "de": "Metro-Start mit Avatar", "pl": "Ekran główny Metro z awatarem"}},
-            {"filename": "picker.jpg", "title": {"pt": "Escolha seu avatar", "en": "Select an Avatar", "de": "Avatar auswählen", "pl": "Wybierz awatara"}},
+            {"filename": "home.jpg", "title": {"pt": "Início Metro", "en": "Metro home", "de": "Metro-Start", "pl": "Ekran główny Metro"}},
             {"filename": "social.jpg", "title": {"pt": "Aba social e amigos", "en": "Social tab and friends", "de": "Social-Reiter und Freunde", "pl": "Karta społeczności i znajomi"}},
             {"filename": "games.jpg", "title": {"pt": "Aba jogos", "en": "Games tab", "de": "Spiele-Reiter", "pl": "Karta gier"}},
-            {"filename": "editor.jpg", "title": {"pt": "Editor de Avatar: cabelo", "en": "Avatar Editor: hair", "de": "Avatar-Editor: Haare", "pl": "Edytor awatara: fryzura"}},
-            {"filename": "editor-tops.jpg", "title": {"pt": "Editor de Avatar: blusas", "en": "Avatar Editor: tops", "de": "Avatar-Editor: Oberteile", "pl": "Edytor awatara: góry"}},
             {"filename": "guide.jpg", "title": {"pt": "Guia", "en": "Guide", "de": "Guide", "pl": "Przewodnik"}},
             {"filename": "settings.jpg", "title": {"pt": "Aba configurações", "en": "Settings tab", "de": "Einstellungen-Reiter", "pl": "Karta ustawień"}}
+        ]
+    },
+    "xbox360-nxe-dashboard": {
+        "id": "xbox360-nxe-dashboard",
+        "name": "Xbox 360 NXE Dashboard",
+        "console": {
+            "pt": "Xbox 360",
+            "en": "Xbox 360",
+            "de": "Xbox 360",
+            "pl": "Xbox 360"
+        },
+        "badge": {"pt": "Xbox 360 NXE", "en": "Xbox 360 NXE", "de": "Xbox 360 NXE", "pl": "Xbox 360 NXE"},
+        "color": "#86C232",
+        "gradient": "linear-gradient(135deg, #a8d94a 0%, #2d5a0c 100%)",
+        "accent": "#c4ec5a",
+        "isDashboard": True,
+        "tagline": {"pt": "O painel NXE do Xbox 360 (2008) no SteamOS: cena verde, hubs e cartões de vidro", "en": "The 2008 Xbox 360 NXE dashboard on SteamOS: a green scene, hubs and glass cards", "de": "Das Xbox 360 NXE-Dashboard (2008) auf SteamOS: grüne Szene, Hubs und Glaskarten", "pl": "Panel NXE z Xbox 360 (2008) w SteamOS: zielona scena, huby i szklane karty"},
+        "features": {
+            "pt": [
+                "Cena verde-limão com piso brilhante, como o NXE de 2008",
+                "Lista de hubs: vídeo e música, marketplace, meu xbox, xbox live e sistema",
+                "Cartões de vidro: o selecionado é grande e os outros recuam em perspectiva",
+                "Jogar com o último jogo, biblioteca, downloads, capturas e seus amigos",
+                "Guia com cartão do jogador, menus do Steam no estilo do Guia e quatro idiomas"
+            ],
+            "en": [
+                "Lime-green scene with a glossy floor, like the 2008 NXE",
+                "Hub list: video & music, game marketplace, my xbox, xbox live and system",
+                "Glass cards: the focused one is big and the rest recede in perspective",
+                "Play game with your last game, library, downloads, captures and your friends",
+                "Guide with your gamercard, Guide-style Steam menus and four languages"
+            ],
+            "de": [
+                "Limettengrüne Szene mit glänzendem Boden, wie das NXE von 2008",
+                "Hub-Liste: Video & Musik, Spiele-Marktplatz, mein Xbox, Xbox Live und System",
+                "Glaskarten: die fokussierte ist groß, die übrigen weichen perspektivisch zurück",
+                "Spiel starten mit deinem letzten Spiel, Bibliothek, Downloads, Aufnahmen und Freunde",
+                "Guide mit Spielerkarte, Steam-Menüs im Guide-Stil und vier Sprachen"
+            ],
+            "pl": [
+                "Limonkowa scena z błyszczącą podłogą, jak NXE z 2008",
+                "Lista hubów: wideo i muzyka, sklep z grami, mój xbox, xbox live i system",
+                "Szklane karty: wybrana jest duża, reszta cofa się w perspektywie",
+                "Graj w ostatnią grę, biblioteka, pobrania, zrzuty i znajomi",
+                "Przewodnik z kartą gracza, menu Steam w stylu przewodnika i cztery języki"
+            ]
+        },
+        "screenshots": [
+            {"filename": "home.jpg", "title": {"pt": "Meu Xbox: jogar", "en": "My Xbox: play game", "de": "Mein Xbox: Spiel starten", "pl": "Mój Xbox: graj"}},
+            {"filename": "live.jpg", "title": {"pt": "Xbox Live e amigos", "en": "Xbox Live and friends", "de": "Xbox Live und Freunde", "pl": "Xbox Live i znajomi"}},
+            {"filename": "market.jpg", "title": {"pt": "Marketplace de jogos", "en": "Game marketplace", "de": "Spiele-Marktplatz", "pl": "Sklep z grami"}},
+            {"filename": "media.jpg", "title": {"pt": "Vídeo e música", "en": "Video & music", "de": "Video & Musik", "pl": "Wideo i muzyka"}},
+            {"filename": "system.jpg", "title": {"pt": "Sistema", "en": "System", "de": "System", "pl": "System"}},
+            {"filename": "guide.jpg", "title": {"pt": "Guia", "en": "Guide", "de": "Guide", "pl": "Przewodnik"}}
         ]
     },
     "achievo": {

@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.5.0
+
+- **New in the store: Xbox 360 NXE Dashboard 1.0.0.** The 2008 Xbox 360 "New Xbox Experience" dashboard: a lime-green
+  scene with a glossy floor, a hub list (video & music, game marketplace, my xbox, xbox live, system) and a deck of
+  glass cards where the focused card is big and the rest recede in perspective. Bundled with Theme Loader.
+- **Xbox 360 Dashboard 1.1.0.** The Metro dashboard no longer has 3D avatars or the Avatar Editor: it starts straight
+  on the dashboard and shows your Steam profile picture as the gamerpic. The package is much smaller.
+- The store pages of both dashboards have new screenshots.
+
 ## 1.4.1
 
 - **Xbox 360 Dashboard 1.0.1.** The D-pad now follows the tiles on screen: up / down stays in a column and
